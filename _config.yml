@@ -22,7 +22,7 @@ repository               : "Crapenter-Cheung/Crapenter-Cheung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #".png"
+  avatar           : #photo.png"
   name             : "Crapenter Cheung(张旻昊)"
   pronouns         : # example: "she/her"  
   bio              : "L'honneur de l'esprit humain."
