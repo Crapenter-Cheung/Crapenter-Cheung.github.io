@@ -17,3 +17,5 @@ I was very fortunate to be advised by [Prof. Haitao Cao](https://math.nu.edu.cn/
 
 
 Here is my CV(in Chinese): [张旻昊的个人简历](../assets/CV.pdf)
+
+2024年5月，我为南京师范大学制作了一份beamer模板，业已上传至[overleaf](https://www.overleaf.com/latex/templates/nnu-beamer-carpenter/gfppmtqybvpb)。这是从Verona中改编得到的。希望后来者使用。
