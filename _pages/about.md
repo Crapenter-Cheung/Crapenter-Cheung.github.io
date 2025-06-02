@@ -16,4 +16,4 @@ I was very fortunate to be advised by [Prof. Haitao Cao](https://math.nu.edu.cn/
 [Email](mailto:crapenter@mail.nku.edu.cn) / [Email](mailto:crapenter@njnu.edu.cn) /[Github](https://crapenter-cheung.github.io/) 
 
 
-Here is my CV(in Chinese)(../assets/CV.pdf).
+Here is my CV(in Chinese): [张旻昊的个人简历](../assets/CV.pdf)
