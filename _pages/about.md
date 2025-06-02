@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Crapenter Cheung (张旻昊 in Chinese). I'm a one year undergraduate student at [Center for Combinatorics](https://cfc.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). My research interest includes algebraic geometry(Hilbert Scheme in particial), MacDonald polynomial and dyck path algebra.
 
-I was very fortunate to be advised by [Prof. Haitao Cao](https://math.nu.edu.cn/info/1074/6248.htm) from [School of Math Science](https://math.njnu.edu.cn/), Nanjing normal University during my undergraduate period. I am now advised by [Dun Qiu](https://qiudun123.github.io/)
+I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.cn/info/1074/6248.htm) from [School of Math Science](https://math.njnu.edu.cn/), Nanjing normal University during my undergraduate period. I am now advised by [Dun Qiu](https://qiudun123.github.io/)
 .
  You can contact me via the following ways:
  
