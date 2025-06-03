@@ -8,5 +8,5 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Education Background"
-    url: /eb/
+  - title: "Curriculum Vitae"
+    url: /cv/
