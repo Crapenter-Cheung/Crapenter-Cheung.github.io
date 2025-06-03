@@ -12,8 +12,9 @@ My name is Crapenter Cheung (张旻昊 in Chinese). I'm a one year undergraduate
 I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.cn/info/1074/6248.htm) from [School of Math Science](https://math.njnu.edu.cn/), Nanjing normal University during my undergraduate period. I am now advised by [Dun Qiu](https://qiudun123.github.io/)
 .
  You can contact me via the following ways:
+
  
-[Email](mailto:crapenter@mail.nku.edu.cn) / [Email](mailto:crapenter@njnu.edu.cn) /[Github](https://crapenter-cheung.github.io/) 
+[crapenter@mail.nku.edu.cn](mailto:crapenter@mail.nku.edu.cn) / [crapenter@njnu.edu.cn](mailto:crapenter@njnu.edu.cn) /[Github](https://crapenter-cheung.github.io/) 
 
 
 Here is my CV(in Chinese): [张旻昊的个人简历](../assets/CV.pdf)
