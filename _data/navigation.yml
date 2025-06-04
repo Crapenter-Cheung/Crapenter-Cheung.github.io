@@ -12,5 +12,5 @@ main:
     url: /cv/
 
 
-  - title: "博客"
-    url: /year-archive/
+ # - title: "博客"
+ #  url: /year-archive/
