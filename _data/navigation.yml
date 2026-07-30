@@ -14,5 +14,8 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Talks"
+    url: /talks/
+
   - title: "Useful links"
-    url: /useful_links/
+    url: /useful_links/ 
