@@ -4,8 +4,68 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 redirect_from:
-  -/resume
+  - /resume
 ---
 
 {% include base_path %}
+
+<div class="pub-card talk-card">
+  <div class="talk-card__row">
+    <h3 class="talk-card__title">The Nonsymmetric Compositional Delta Theorem</h3>
+    <span class="talk-card__date">July 2026</span>
+  </div>
+  <p class="talk-card__venue">Combinatorics Seminar, Sungkyunkwan University.</p>
+  <details>
+    <summary>Abstract</summary>
+    <p>The compositional Delta theorem is a refinement of the compositional shuffle theorem. In this talk, I will present a nonsymmetric version of the compositional Delta theorem. Using flagged LLT polynomials, we establish both signed and unsigned nonsymmetric identities. We also introduce nonsymmetric analogues of the operators \( \nabla \) and \( \tau^* \), leading to a new operator formulation of these identities. Under Weyl symmetrization, our nonsymmetric identities recover the original compositional Delta theorem, revealing the symmetric theory as a natural consequence of the nonsymmetric framework. I will conclude with several conjectural positivity properties involving stable atoms. This is joint work with Dun Qiu.</p>
+  </details>
+</div>
+
+<div class="pub-card talk-card">
+  <div class="talk-card__row">
+    <h3 class="talk-card__title">Signed Schur Positivity of \( \nabla m_\mu \)</h3>
+    <span class="talk-card__date">July 2026</span>
+  </div>
+  <p class="talk-card__venue">Combinatorics Seminar, Sungkyunkwan University.</p>
+  <details>
+    <summary>Abstract</summary>
+    <p>The \( \nabla \) operator plays a central role in the theory of Macdonald polynomials and diagonal coinvariants. In 1999, Bergeron, Garsia, Haiman, and Tesler conjectured that, up to a natural sign, \( \nabla m_\mu \) is Schur-positive, where \( m_\mu \) is the monomial symmetric function. In this talk, I will present a proof of this conjecture, together with a generalization in the setting of the Schiffmann algebra. A key ingredient is a positive expansion of signed monomial symmetric functions in terms of the functions \( C_\alpha(1) \). Combined with the compositional shuffle theorem and the Schur positivity of LLT polynomials, this expansion yields the desired result. I will also discuss a related \( e \)-positivity phenomenon arising from column LLT polynomials. This is joint work with Dun Qiu.</p>
+  </details>
+</div>
+
+<div class="pub-card talk-card">
+  <div class="talk-card__row">
+    <h3 class="talk-card__title">The Extended \( (km,kn) \) Shuffle Theorem</h3>
+    <span class="talk-card__date">July 2026</span>
+  </div>
+  <p class="talk-card__venue">Combinatorics Seminar, Shandong University.</p>
+  <details>
+    <summary>Abstract</summary>
+    <p>In this talk, I described an extended \( (km,kn) \) shuffle theorem for rational parking functions with zero labels. I explained the role of Negut elements on the algebraic side and the extended Delta-type refinement in the \( (km,kn) \) setting. This is joint work with Dun Qiu.</p>
+  </details>
+</div>
+
+<div class="pub-card talk-card">
+  <div class="talk-card__row">
+    <h3 class="talk-card__title">The Nonsymmetric Compositional Delta Theorem</h3>
+    <span class="talk-card__date">July 2026</span>
+  </div>
+  <p class="talk-card__venue">Combinatorics Seminar, Shandong University.</p>
+  <details>
+    <summary>Abstract</summary>
+    <p>In this talk, I presented a nonsymmetric analogue of the compositional Delta theorem, focusing on flagged LLT polynomial identities and the nonsymmetric versions of the \( \nabla \) and \( \tau^* \) operators. I also discussed how Weyl symmetrization recovers the compositional Delta theorem. This is joint work with Dun Qiu.</p>
+  </details>
+</div>
+
+<div class="pub-card talk-card">
+  <div class="talk-card__row">
+    <h3 class="talk-card__title">Schur Positivity of \( \nabla m_\mu \)</h3>
+    <span class="talk-card__date">June 2026</span>
+  </div>
+  <p class="talk-card__venue">Combinatorics Seminar, Shandong University.</p>
+  <details>
+    <summary>Abstract</summary>
+    <p>In this talk, I discussed the Schur-positivity problem for \( \nabla m_\mu \) and explained how the nabla operator, the \( C_\alpha(1) \) expansion, the compositional shuffle theorem, and LLT positivity enter the proof. This is joint work with Dun Qiu.</p>
+  </details>
+</div>
 
