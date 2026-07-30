@@ -50,6 +50,8 @@
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
 }
 
+
+
 .pub-card:nth-of-type(odd) {
   background: #ffffff;
 }
@@ -162,4 +164,51 @@ body.dark-theme .pub-card details p {
   color: #e5e7eb;
   border-left-color: #64748b;
   background: rgba(31, 41, 55, 0.85);
+}
+
+.talk-card {
+  padding: 0.9rem 1.2rem;
+}
+
+.talk-card__row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: baseline;
+}
+
+.talk-card__title {
+  margin: 0;
+  line-height: 1.35;
+}
+
+.talk-card__date {
+  white-space: nowrap;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #6b7280;
+}
+
+.talk-card__venue {
+  margin: 0.35rem 0 0 0;
+  font-style: italic;
+  color: #4b5563;
+}
+
+html[data-theme="dark"] .talk-card__date,
+body[data-theme="dark"] .talk-card__date,
+html.dark .talk-card__date,
+body.dark .talk-card__date,
+html.dark-theme .talk-card__date,
+body.dark-theme .talk-card__date {
+  color: #cbd5e1;
+}
+
+html[data-theme="dark"] .talk-card__venue,
+body[data-theme="dark"] .talk-card__venue,
+html.dark .talk-card__venue,
+body.dark .talk-card__venue,
+html.dark-theme .talk-card__venue,
+body.dark-theme .talk-card__venue {
+  color: #d1d5db;
 }
