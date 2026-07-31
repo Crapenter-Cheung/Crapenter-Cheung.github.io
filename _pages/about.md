@@ -12,25 +12,13 @@ My name is Minhao Zhang (张旻昊 in Chinese, zhāng mín hào in pinyin). I'm 
 
 During my undergraduate studies at Nanjing Normal University, I was very fortunate to have my bachelor’s thesis supervised by [Prof. Alina F.Y. Zhao](https://www.researchgate.net/profile/Alina-Zhao) from the [School of Mathematical Sciences](https://math.njnu.edu.cn/). I am now advised by [Prof. Dun Qiu](https://qiudun123.github.io/).
 
-<p style="margin-top: 1em;">
-  <span style="
-  color: #ffd166;
-  font-weight: 700;
-  background: rgba(255, 209, 102, 0.14);
-  padding: 0.15em 0.35em;
-  border-radius: 4px;
-">
-    I am actively seeking a PhD position in representation theory or algebraic combinatorics, with a planned start date in Fall 2027 or Spring 2028.
-  </span>
-</p>
-
 You can contact me via the following ways:
 
 [carpentercheungmath@gmail.com](mailto:carpentercheungmath@gmail.com) 
 
 [crapenter@mail.nankai.edu.cn](mailto:crapenter@mail.nankai.edu.cn) 
 
-Here is my CV: [Minhao Zhang's CV.](../assets/minhao_zhang_cv.pdf)
+Here is my CV: [Minhao Zhang's CV](../assets/minhao_zhang_cv.pdf).
 
 2024年5月，适逢本科毕业之时，为母校南京师范大学制作了一份beamer模板，业已上传至[overleaf](https://www.overleaf.com/latex/templates/nnu-beamer-carpenter/gfppmtqybvpb)。这是从Verona中改编得到的。希望后来者使用。
 
